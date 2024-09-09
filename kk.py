@@ -1,0 +1,14 @@
+a="abc"
+b="_abc"
+c="123"
+d="a183"
+e="__"
+print(a.isidentifier())
+print(b.isidentifier())
+print(c.isidentifier())
+print(d.isidentifier())
+print(e.isidentifier())
+_=1
+print(_)
+__=2
+print(__)
